@@ -24,4 +24,4 @@ Then, require the package and use it like so:
 
 MIT
 
-- Update readme
+- Update readme file

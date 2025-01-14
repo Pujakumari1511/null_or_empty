@@ -4,6 +4,10 @@
 
 [![Node CI](https://github.com/Pujakumari1511/null_or_empty/actions/workflows/whatever.yml/badge.svg)](https://github.com/Pujakumari1511/null_or_empty/actions/workflows/whatever.yml)
 
+# My Awesome Project
+
+![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)
+
 A simple Node.js package that checks, if a given string is null or empty.
 
 ## Usage
